@@ -1,3 +1,17 @@
+# Netflix clone
+
+A sleek and responsive Netflix Clone built with React.js, offering a seamless UI for browsing and streaming movies and TV shows.
+
+Key Features:
+🎬 Modern UI – Netflix-inspired design with smooth animations.
+🔍 Search & Filters – Easily find content by genre or trending lists.
+📌 Watchlist – Add favorite movies and shows for later.
+🌙 Dark Mode – Eye-friendly viewing experience.
+📱 Responsive Design – Works across all devices.
+
+Perfect for showcasing frontend skills with React.js! 🚀
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
